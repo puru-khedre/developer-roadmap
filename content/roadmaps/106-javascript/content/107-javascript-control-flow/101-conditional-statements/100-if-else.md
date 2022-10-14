@@ -2,7 +2,7 @@
 
 The `if` statement executes a statement if a specified condition is `truthy`. If the condition is `falsy`, another statement in the optional `else` clause will be executed.
 
-```
+```js
 if (condition) {
   statement1
 } else {
